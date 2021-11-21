@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-living-the-simple-life/static/css/main.6faab8ba.chunk.css",
+    "main.js": "/react-living-the-simple-life/static/js/main.30cddaaf.chunk.js",
+    "main.js.map": "/react-living-the-simple-life/static/js/main.30cddaaf.chunk.js.map",
+    "runtime-main.js": "/react-living-the-simple-life/static/js/runtime-main.6b5faa09.js",
+    "runtime-main.js.map": "/react-living-the-simple-life/static/js/runtime-main.6b5faa09.js.map",
+    "static/js/2.d2991cd3.chunk.js": "/react-living-the-simple-life/static/js/2.d2991cd3.chunk.js",
+    "static/js/2.d2991cd3.chunk.js.map": "/react-living-the-simple-life/static/js/2.d2991cd3.chunk.js.map",
+    "static/js/3.3bd98088.chunk.js": "/react-living-the-simple-life/static/js/3.3bd98088.chunk.js",
+    "static/js/3.3bd98088.chunk.js.map": "/react-living-the-simple-life/static/js/3.3bd98088.chunk.js.map",
+    "index.html": "/react-living-the-simple-life/index.html",
+    "static/css/main.6faab8ba.chunk.css.map": "/react-living-the-simple-life/static/css/main.6faab8ba.chunk.css.map",
+    "static/js/2.d2991cd3.chunk.js.LICENSE.txt": "/react-living-the-simple-life/static/js/2.d2991cd3.chunk.js.LICENSE.txt",
+    "static/media/about-me.9141b009.jpg": "/react-living-the-simple-life/static/media/about-me.9141b009.jpg",
+    "static/media/deco.0f5a1004.jpg": "/react-living-the-simple-life/static/media/deco.0f5a1004.jpg",
+    "static/media/food.0dce7509.jpg": "/react-living-the-simple-life/static/media/food.0dce7509.jpg",
+    "static/media/life.50595b63.jpg": "/react-living-the-simple-life/static/media/life.50595b63.jpg",
+    "static/media/work.940b75b0.jpg": "/react-living-the-simple-life/static/media/work.940b75b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5faa09.js",
+    "static/js/2.d2991cd3.chunk.js",
+    "static/css/main.6faab8ba.chunk.css",
+    "static/js/main.30cddaaf.chunk.js"
+  ]
+}
