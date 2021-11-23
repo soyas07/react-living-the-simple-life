@@ -8,7 +8,7 @@
 .footer h1, .footer h2 {
     font-family: 'Ubuntu', sans-serif;
     color: #FFFFFF;
-    opacity: 54%;
+    opacity: 0.5;
     font-size: 1rem;
     line-height: 1.55rem;
 }
