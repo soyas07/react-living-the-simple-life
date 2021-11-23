@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-living-the-simple-life/static/css/main.6faab8ba.chunk.css",
-    "main.js": "/react-living-the-simple-life/static/js/main.30cddaaf.chunk.js",
-    "main.js.map": "/react-living-the-simple-life/static/js/main.30cddaaf.chunk.js.map",
+    "main.js": "/react-living-the-simple-life/static/js/main.d42d17ee.chunk.js",
+    "main.js.map": "/react-living-the-simple-life/static/js/main.d42d17ee.chunk.js.map",
     "runtime-main.js": "/react-living-the-simple-life/static/js/runtime-main.6b5faa09.js",
     "runtime-main.js.map": "/react-living-the-simple-life/static/js/runtime-main.6b5faa09.js.map",
     "static/js/2.d2991cd3.chunk.js": "/react-living-the-simple-life/static/js/2.d2991cd3.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6b5faa09.js",
     "static/js/2.d2991cd3.chunk.js",
     "static/css/main.6faab8ba.chunk.css",
-    "static/js/main.30cddaaf.chunk.js"
+    "static/js/main.d42d17ee.chunk.js"
   ]
 }
