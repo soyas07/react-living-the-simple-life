@@ -1,0 +1,23 @@
+.footer {
+    height: 15vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer h1, .footer h2 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFFFFF;
+    opacity: 54%;
+    font-size: 1rem;
+    line-height: 1.55rem;
+}
+
+.footer h1 {
+    font-weight: 700;
+    
+}
+
+.footer h2 {
+    font-weight: 300;
+}

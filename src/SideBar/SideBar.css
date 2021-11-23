@@ -1,0 +1,60 @@
+.sidebar-wrapper {
+    display: flex;
+    background: #EBEBEB;
+    margin-bottom: 2em;
+    flex-wrap: wrap;
+}
+
+.sidebar-about-wrapper, .sidebar-about {
+    width: 100%;
+    padding: 1em;
+}
+
+.sidebar-about {
+    background: white;
+}
+
+.sidebar-about h1, .sidebar-about p {
+    font-family: "Ubuntu", sans-serif;
+    color: #143774;
+}
+
+.sidebar-about h1 {
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    font-size: 1rem;
+    margin-bottom: 1.44em;
+}
+
+.sidebar-about p {
+    font-size: 0.77rem;
+    line-height: 1.33rem;
+    font-weight: 300;
+}
+
+.sidebar-about img {
+    width: 100%;
+    height: 26.5vh;
+    object-fit: cover;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    margin-bottom: 1.44em;
+}
+
+.sidebar-about .side-img {
+    height: 10vh;
+}
+
+.sidebar-about .side-title {
+    color: #143774;
+    font-size: 1rem;
+    line-height: 1.55rem;
+    font-weight: 400;
+}
+
+
+/* Mobile styles for responsive design */
+
+@media screen and (max-width: 600px) {
+
+}

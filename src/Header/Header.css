@@ -1,0 +1,67 @@
+nav {
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.logo h1 {
+    font-weight: 400;
+    font-size: 1.83rem;
+    color: #143774;
+}
+
+.logo p {
+    letter-spacing: 0.13rem;
+    font-weight: 700;
+    font-size: 0.66rem;
+    color: #1792D2;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li {
+    letter-spacing: 0.17rem;
+    font-weight: 700;
+}
+
+nav a {
+    color: #717171;
+    margin-left: 1.5em;
+    padding-bottom: 0.5em;
+}
+
+nav a:hover {
+    border-bottom: 2px solid #707070;
+}
+
+
+/* Mobile styles for responsive design */
+
+@media screen and (max-width: 600px) {
+    nav, nav ul {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+
+    nav {
+        height: 25vh;
+    }
+
+    nav li {
+        margin-top: 1.5em;
+    }
+
+    .logo{
+        margin: 0;
+    }
+
+}
