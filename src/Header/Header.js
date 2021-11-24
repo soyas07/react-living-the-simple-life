@@ -15,7 +15,7 @@ function Header() {
             <nav className="container">
                 
                 <div className="logo">
-                    <Link to="/">
+                    <Link to="/" onClick={() => {setIsClicked('home')}}>
                         <h1>Living the simple life</h1>
                         <p>A BLOG EXPLORING MINIMALISM IN LIFE</p>
                     </Link>
