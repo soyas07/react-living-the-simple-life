@@ -6,11 +6,11 @@ import SectionData from '../Section/SectionData'
 function SideBar( {type} ) {
 
     // list recent posts sidebar data
-    const listPost = SectionData.map(list => (
+    const listPost = SectionData.map((list, index) => (
         <React.Fragment key={list.id}>
             <img className="side-img" src={list.img} alt="" />
             <p className="side-title">{list.title}</p>
-            <hr />
+            {(index === SectionData.length - 1) ? null : <hr />}
         </React.Fragment>
     ))
 
